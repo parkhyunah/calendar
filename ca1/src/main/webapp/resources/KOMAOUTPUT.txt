@@ -1,0 +1,10 @@
+
+<================ Tagged Result ===================>
+ 2015년         : 2015(CSC) + 년(CMDU)
+ 12월           : 12(CSC) + 월(CMDU)
+ 26일           : 26(CSC) + 일(CMDU)
+ 23시           : 23(CSC) + 시(CMDU)
+ 22분에         : 22(CSC) + 분(CMDU) + 에(fjcao)
+ 'ㅁㄴㅇㄹ      : '(g) + ㅁㄴㅇ(UM) + 이(fpd) + ㄹ(fmotgf)
+ '              : '(g)
+ 추가해줘       : 추가(CMCPA) + 하(fpd) + 어(fmoca) + 주(YA) + 어(fmoca)

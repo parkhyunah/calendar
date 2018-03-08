@@ -1,0 +1,95 @@
+@charset "UTF-8";
+
+
+
+body {
+	/* background-image: url("http://megahdwall.com/wp-content/uploads/2014/06/Night-Sky-Tree-Universe-429581.jpg");
+	background-attachment: inherit; */
+}
+
+#calendar {
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+.toolBar{
+	text-align: center;
+	margin-bottom: 16px;
+	height: 44px;
+}
+
+.toolBar-left {
+	float: left;
+	display: block;
+}
+
+.toolBar-left input{
+	width: 60px;
+	height: 44px;
+}
+
+.toolBar-center {
+	display: inline-block;
+}
+
+.toolBar-center span{
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.toolBar-right {
+	float: right;
+	display: block;
+}
+
+.toolBar-right input{
+	margin: 0px;
+	width: 60px;
+	height: 44px;
+}
+
+.toolBar-clear {
+	clear: both;
+	display: block;
+}
+/*  */
+
+.chat {
+	text-align: center;
+}
+
+/*  */
+.calendarTable {
+	border: solid 2px #000000;
+}
+
+.labelSunday {
+	background-color: rgba(255, 0, 0, 0.5);
+}
+.labelWeekday {
+	background-color: rgba(168, 107, 197, 0.5);
+}
+.labelSaturday {
+	background-color: rgba(0, 0, 255, 0.5)
+}
+
+.calendarTable td {
+	background-color: rgba(244, 237, 185, 0.4);
+	vertical-align: top;
+	height: 120px;
+	margin : 0;
+	padding : 0;
+}
+.calendarTable td ul {
+	margin : 0;
+	padding : 0;
+	padding-left: 20px;
+}
+.calendarTable td ul li {
+	font-size: 11px;
+	font-weight: bold;
+}
+
+.calendarTable th, .calendarTable td{
+	 border: 2px;
+}
